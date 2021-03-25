@@ -1,5 +1,5 @@
 <h3 align="center"><b> Hi there 👋 I'm eunseo 😃 </b></h3>
-<h5 align="center"> I want to be an iOS developer 💻 </h5>
+<h5 align="center"> I wanna be an iOS developer 💻 </h5>
 <hr>
 <h4 align="center"> 🌱 I’m currently learning Swift & iOS </h4>
 
